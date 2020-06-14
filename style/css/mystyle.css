@@ -1,0 +1,58 @@
+.hover {
+    background-color: #00aeff !important;
+    cursor: pointer;
+}
+.hoverTwo {
+    background-color: #00aeff !important;
+    cursor: pointer;
+}
+
+/*html,body {
+	direction: rtl;
+}
+#main {
+    padding-right: 240px;
+    padding-left: unset;
+}
+
+.brand-sidebar {
+    right: 0;
+}
+.side-nav.fixed {
+    right: 0;
+ }
+ .brand-sidebar .logo-wrapper a.navbar-toggler {
+    left: 20px !important;
+    right: unset !important;
+}
+#slide-out li a i {
+    float: right;
+
+  margin: 0 auto;
+}
+
+ul:not(.browser-default) {
+    padding-right: 0;
+}
+ul.side-nav .collapsible-header:after {
+    left: 16px;
+    transform: rotate(180deg);
+}
+footer {
+    padding-right: 240px;
+    padding-left: unset;
+}
+.right {
+    float: left!important;
+}
+#main.main-full {
+    padding-right: 64px;
+}
+
+#slide-out li .collapsible-body a i {
+    transform: rotate(180deg);
+    float: left;
+}
+.row .col {
+    float: right;
+}*/
